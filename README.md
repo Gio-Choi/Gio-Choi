@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/Gio Choi-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
 </a>   
 
-### Here's my <a href="https://gio-choi.github.io" style ="color: black;text-decoration: none; border-bottom: 1px solid #000"> [CV]</a>.
+### Here's my <a href="https://gio-choi.github.io" style ="color: black;text-decoration: none; border-bottom: 1px solid #000"> [Website].💻😁</a>
 
 <!-- ### Tools I work upon : 🛠 -->
 
