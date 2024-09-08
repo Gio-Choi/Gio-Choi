@@ -1,16 +1,11 @@
-## Hi there. My name is Jiwoong (Gio) Choi. I’m a Master’s student in Computational Social Science at The University of Chicago.
-## Welcome to my GitHub.
+## Hi there. Welcome to my GitHub!
+### My name is Jiwoong (Gio) Choi. 
+### I’m a Master’s student in Computational Social Science at The University of Chicago.
 
-### Contact:
 
-<a href="mailto:jiwung22@gmail.com"> 
-<img src="https://img.shields.io/badge/jiwung22@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"> </a>      
-
-<a href="https://www.linkedin.com/in/giochoi22/">
-<img src="https://img.shields.io/badge/Gio Choi-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" >
-</a>   
-
-### Here's my <a href="https://gio-choi.github.io" style ="color: black;text-decoration: none; border-bottom: 1px solid #000"> [Website].💻😁</a>
+### Here's my <a href="https://gio-choi.github.io" style ="color: black;text-decoration: none; border-bottom: 1px solid #000"> [Website].💻</a>
+### Feel free to reach me.    
+ <a href="mailto:jiwung22@gmail.com"> <img src="https://img.shields.io/badge/jiwung22@gmail.com-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white"> </a> <a href="https://www.linkedin.com/in/giochoi22/"> <img src="https://img.shields.io/badge/Gio Choi-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a>   
 
 
 <!-- ### Tools I work upon : 🛠 -->
