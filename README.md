@@ -1,6 +1,5 @@
-## 👋 Hi, I’m Jiwoong (Gio) Choi
-## 👀 Welcome to my GitHub.
-
+## Hi there. My name is Jiwoong (Gio) Choi. I’m a Master’s student in Computational Social Science at The University of Chicago.
+## Welcome to my GitHub.
 
 ### Contact:
 
@@ -13,7 +12,6 @@
 
 ### Here's my <a href="https://gio-choi.github.io" style ="color: black;text-decoration: none; border-bottom: 1px solid #000"> [Website].💻😁</a>
 
-### Please visit my website containing photos, videos, and source codes.
 
 <!-- ### Tools I work upon : 🛠 -->
 
