@@ -1,6 +1,6 @@
 #### Hi there. My name is Gio Choi. 
 #### I’m a Master’s student, stuyding Computational Social Science at The University of Chicago.
-#### Here's my <a href="https://gio-choi.github.io" style ="color: black;text-decoration: none; border-bottom: 1px solid #000"> Website.</a> Please Feel free to reach me.    
+#### Here's my <a href="https://gio-choi.github.io" style ="color: black;text-decoration: none; border-bottom: 1px solid #000"> Website.</a> Please feel free to reach me.    
 
 <!-- ### Tools I work upon : 🛠 -->
 
